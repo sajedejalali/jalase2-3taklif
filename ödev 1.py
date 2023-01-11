@@ -71,23 +71,3 @@ if op == "radical":
     result = math.sqrt(c)
 
 print(result)
-
-
-
-
-
-#a = float(input("enter a = "))
-#b = float(input("enter b = "))
-#x = float(input("enter x = "))
-
-#if op == "cos":
-
-#if op == "tan":
-
-#if op == "cot":
-
-#if op == "factorial":
-
-#if op == "radical":
-
-
